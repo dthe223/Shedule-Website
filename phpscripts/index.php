@@ -1,7 +1,7 @@
 <?php
 echo "Hello, my name is " . "Robotron 7000!<br>";
 echo "<br>";
-echo "<b> DAAAAAAAMN DANIEL!!!!!!!! </b>";
+echo "<b> DAAAAAAANG DANIEL!!!!!!!! </b>";
 echo "<br>";
 echo "<br>";
 echo date('Y-m-d H:i:s');
